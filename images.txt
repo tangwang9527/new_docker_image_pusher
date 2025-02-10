@@ -1,1 +1,1 @@
-projecthami/hami:v2.5.0
+docker pull ixuzhi/uos-server-1050a:latest --platform arm64
