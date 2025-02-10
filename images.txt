@@ -1,1 +1,1 @@
-ixuzhi/uos-server-1050a:latest --platform arm64
+ixuzhi/uos-server-1050e:latest --platform arm64
