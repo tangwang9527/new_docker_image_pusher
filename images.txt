@@ -1,1 +1,1 @@
-docker pull ixuzhi/uos-server-1050a:latest --platform arm64
+ixuzhi/uos-server-1050a:latest --platform arm64
