@@ -1,1 +1,1 @@
-dhub.kubesre.xyz/postgres:15-alpine
+dockerhub.icu/langgenius/dify-web:0.15.2
