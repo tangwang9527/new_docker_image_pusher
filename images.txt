@@ -1,1 +1,1 @@
-dockerhub.icu/langgenius/dify-web:0.15.2
+langgenius/dify-web:0.15.2
