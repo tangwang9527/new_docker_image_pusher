@@ -1,1 +1,1 @@
---platform arm64 ixuzhi/uos-server-1050e:latest
+dhub.kubesre.xyz/postgres:15-alpine
