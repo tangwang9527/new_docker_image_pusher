@@ -1,1 +1,1 @@
-gcr.io/cadvisor/cadvisor:v0.39.3
+qwenllm/qwen-omni:2.5-cu121
