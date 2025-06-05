@@ -1,1 +1,1 @@
-jenkins/jenkins
+mintplexlabs/anythingllm:latest
