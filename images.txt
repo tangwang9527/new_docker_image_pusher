@@ -1,2 +1,2 @@
-mysql:5.7
+eipwork/kuboard:v3.1.0.3
 
