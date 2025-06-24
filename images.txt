@@ -1,1 +1,1 @@
-mineru/mcp-mysql:1.0.0
+eipworkkuboard-agent:v3
