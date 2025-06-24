@@ -1,1 +1,1 @@
-eipworkkuboard-agent:v3
+eipwork/kuboard-agent:v3
