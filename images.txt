@@ -1,1 +1,1 @@
-eipwork/kuboard-agent:v3
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/eipwork/kuboard:v3.5.2.7
