@@ -1,1 +1,1 @@
-deepseek-ai/deepseek-llm-7b
+frolvlad/alpine-glibc:alpine-3_glibc-2.41
