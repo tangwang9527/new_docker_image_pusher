@@ -1,1 +1,1 @@
-frolvlad/alpine-glibc:alpine-3_glibc-2.41
+docker.elastic.co/elasticsearch/elasticsearch:8.12.2
