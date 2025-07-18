@@ -1,1 +1,1 @@
-projecthami/hami-webui-fe-oss
+projecthami/hami-webui-fe-oss:main
